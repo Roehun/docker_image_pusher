@@ -1,2 +1,2 @@
 vinlic/deepseek-free-api:latest
-n8nio/n8n
+n8nio/n8n:latest
